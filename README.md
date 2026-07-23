@@ -1,2 +1,2 @@
 # hamamoto
-test
+VSCodeで編集
